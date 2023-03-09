@@ -1,0 +1,9 @@
+spring:
+  jdbc:
+    datasource:
+      password: 1234
+      url: jdbc:oracle
+      driverClassName: com.oracle
+  #配置使用哪个环境
+  profiles:
+    active: pro

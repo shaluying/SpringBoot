@@ -1,0 +1,6 @@
+spring:
+  jdbc:
+    datasource:
+      password: pro
+      url: jdbc:oracle
+      driverClassName: com.oracle
